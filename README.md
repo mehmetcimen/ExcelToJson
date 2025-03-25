@@ -13,37 +13,6 @@ Excel dosyalarını JSON formatına dönüştürmek için kullanıcı dostu bir 
 - İlerleme durumunu izleme
 - Dosya sistem entegrasyonu
 
-## Kurulum
-
-### Windows için
-
-1. Uygulamanın son sürümünü [buradan indirin](https://github.com/mehmetcimen/excel-to-json/releases/latest)
-2. İndirilen kurulum dosyasını çalıştırın
-3. Kurulum sihirbazını takip edin
-
-### macOS için
-
-1. Uygulamanın son sürümünü [buradan indirin](https://github.com/mehmetcimen/excel-to-json/releases/latest)
-2. DMG dosyasını açın ve uygulamayı Applications klasörüne sürükleyin
-
-### Linux için
-
-```bash
-# Gerekli paketleri yükleyin
-sudo apt-get install python3-pip python3-pyqt5
-
-# Uygulamayı klonlayın
-git clone https://github.com/mehmetcimen/excel-to-json.git
-
-# Uygulama dizinine gidin
-cd excel-to-json
-
-# Gerekli Python paketlerini yükleyin
-pip3 install -r requirements.txt
-
-# Uygulamayı çalıştırın
-python3 main.py
-```
 
 ## Kullanım
 
